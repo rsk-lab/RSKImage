@@ -1,0 +1,4 @@
+[submodule "Submodules/RSKBezierPath"]
+	path = Submodules/RSKBezierPath
+	url = https://github.com/rsk-lab/RSKBezierPath.git
+	branch = main
